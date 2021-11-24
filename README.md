@@ -1,5 +1,8 @@
 # Group-Project-DM-ML-2021
- Project Group for HEC UNIL - Group Nvidia
+Project Group for HEC UNIL - Group Nvidia
+
+
+## Models results :
 
 |       | Logistic regression |  	kNN 	Decision Tree  | 	Random Forests | Paragraph   |  	Any other technique   |
 | ----------- | ----------- | ----------- | ----------- | -----------   | ----------- |
