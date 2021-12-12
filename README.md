@@ -7,7 +7,7 @@ Project Group for HEC UNIL - Group Nvidia
 |             | Logistic regression |  	kNN |	Decision Tree  | Random Forests | Ridge Classifier   | Perceptron Classifier |
 | ----------- | ----------- | ----------- | ----------- | -----------   | ----------- | ----------- | ----------- |
 | Precision 	 | 0.4692      | 0.3487      | 0.2911       | Paragraph   | Text        | Text | Text |Text|
-| Recall   | 0.4729        | 0.3219   | 0.2938        | Paragraph   | Text        | Text | Text |Text||
+| Recall   | 0.4729        | 0.3219   | 0.2938        | Paragraph   | Text        | Text | Text |Text|
 | F1-score    | 0.4672        | 0.2984   | 0.2906        | Paragraph   | Text        | Text | Text |Text|
 | Accuracy   | 0.4729        | 0.3219   | 0.2938        | Paragraph   | Text        | Text | Text |Text|
 
