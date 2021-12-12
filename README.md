@@ -4,7 +4,7 @@ Project Group for HEC UNIL - Group Nvidia
 
 ## Models results :
 
-|       | Logistic regression |  	kNN 	Decision Tree  | 	Random Forests | Paragraph   |  	Any other technique   |
+|       | Logistic regression |  	kNN |	Decision Tree  | 	Random Forests | Paragraph   |  	Any other technique   |
 | ----------- | ----------- | ----------- | ----------- | -----------   | ----------- |
 | Precision 	 | 0.4692      | 0.3487      | 0.2911       | Paragraph   | Text        |
 | Recall   | 0.4729        | 0.3219   | 0.2938        | Paragraph   | Text        |
