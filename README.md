@@ -4,12 +4,12 @@ Project Group for HEC UNIL - Group Nvidia
 
 ## Models results (first step):
 
-|        | Logistic regression | kNN |	Decision Tree  | Random Forests | Perceptron | Ridge |
+|        | Logistic regression | kNN |	Decision Tree  | Random Forests | Ridge | Perceptron |
 | ----------- | ----------- | ----------- | ----------- | -----------   | ----------- | ----------- |
-| Precision 	 | 0.4692      | 0.3487      | 0.2911       | 0.4072   | 0.4251        | 0.4598 |
-| Recall   | 0.4729        | 0.3219   | 0.2938        | 0.4083   | 0.4229        | 0.4656 |
-| F1-score    | 0.4672        | 0.2984   | 0.2906        | 0.3979   | 0.4169        | 0.4578 | 
-| Accuracy   | 0.4729        | 0.3219   | 0.2938        | 0.4083   | 0.4229        | 0.4656 |
+| Precision 	 | 0.4688      | 0.3946      | 0.3077       | 0.3924   | 0.4615        | 0.4117 |
+| Recall   | 0.4719        | 0.3490   | 0.3117        | 0.3965   | 0.4666        | 0.4095 |
+| F1-score    | 0.4664        | 0.3262   | 0.3055        | 0.3843   | 0.4597        | 0.4060 | 
+| Accuracy   | 0.4729        | 0.3510   | 0.3125        | 0.3979   | 0.4677        | 0.4104 |
 
  					
 					
