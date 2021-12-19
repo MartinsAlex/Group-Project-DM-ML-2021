@@ -12,7 +12,7 @@ Project Group for HEC UNIL - Group Nvidia
 | Accuracy   | 0.4729        | 0.3510   | 0.3125        | 0.3979   | 0.4677        | 0.4104 |
 
  					
-You can know more about our pathway, with reading these notebooks, in this order:
+You can know more about our pathway, reading these notebooks, in this order:
 
 1. [EDA.ipynb](https://github.com/LaCrazyTomato/Group-Project-DM-ML-2021/blob/main/code/EDA.ipynb)
 2. [first_approach.ipynb](https://github.com/LaCrazyTomato/Group-Project-DM-ML-2021/blob/main/code/first_approach.ipynb)
