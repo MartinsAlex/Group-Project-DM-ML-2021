@@ -26,7 +26,7 @@ To determine this we went through different steps:
 
 |        | Logistic regression | Random Forests | Ridge | Perceptron |
 | ----------- | ----------- |  -----------   | ----------- | ----------- |
-| Accuracy   | 0.5031        |     | 0.4198   | 0.4677        | 0.4104 |
+| Accuracy   | 0.5031        |  0.4198  | 0.4198   | 0.5042        | 0.4677 |
 
 You can know more about our pathway, with reading these notebooks, in this order:
 
