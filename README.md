@@ -1,7 +1,7 @@
 # [Detecting the difficulty level of French texts](https://www.kaggle.com/c/detecting-the-difficulty-level-of-french-texts/overview/evaluation)
 
 # Group Project DMML - 2021
-Project Group for HEC UNIL - Group Nvidia
+HEC UNIL - Group Nvidia
 
 
 ## Models results (baseline):
