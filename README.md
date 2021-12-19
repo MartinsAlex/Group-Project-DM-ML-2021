@@ -24,9 +24,9 @@ To determine this we went through different steps:
 
 You can know more about our pathway, with reading these notebooks, in this order:
 
-1. [EDA.ipynb](https://github.com/LaCrazyTomato/Group-Project-DM-ML-2021/blob/main/code/EDA.ipynb)
-2. [first_approach.ipynb](https://github.com/LaCrazyTomato/Group-Project-DM-ML-2021/blob/main/code/first_approach.ipynb)
-3. [hyperparameters_tuning.ipynb](https://github.com/LaCrazyTomato/Group-Project-DM-ML-2021/blob/main/code/hyperparameters_tuning.ipynb)
-4. [model_improvments.ipynb](https://github.com/LaCrazyTomato/Group-Project-DM-ML-2021/blob/main/code/model_improvement.ipynb)
-5. [bert_implementation.ipynb](https://github.com/LaCrazyTomato/Group-Project-DM-ML-2021/blob/main/code/bert_implementation.ipynb)					
+1. [EDA.ipynb](http://github.com/LaCrazyTomato/Group-Project-DM-ML-2021/blob/main/code/EDA.ipynb)
+2. [first_approach.ipynb](http://github.com/LaCrazyTomato/Group-Project-DM-ML-2021/blob/main/code/first_approach.ipynb)
+3. [hyperparameters_tuning.ipynb](http://github.com/LaCrazyTomato/Group-Project-DM-ML-2021/blob/main/code/hyperparameters_tuning.ipynb)
+4. [model_improvments.ipynb](http://github.com/LaCrazyTomato/Group-Project-DM-ML-2021/blob/main/code/model_improvement.ipynb)
+5. [bert_implementation.ipynb](http://github.com/LaCrazyTomato/Group-Project-DM-ML-2021/blob/main/code/bert_implementation.ipynb)					
 					
