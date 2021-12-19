@@ -2,7 +2,7 @@
 Project Group for HEC UNIL - Group Nvidia
 
 
-## Models results (first step):
+## Models results (baseline):
 
 |        | Logistic regression | kNN |	Decision Tree  | Random Forests | Ridge | Perceptron |
 | ----------- | ----------- | ----------- | ----------- | -----------   | ----------- | ----------- |
