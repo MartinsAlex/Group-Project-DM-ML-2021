@@ -24,5 +24,11 @@ After a cleaning we used 6 models for the calculations and we retained __only 4_
 | F1-score    | 0.4664        | 0.3262   | 0.3055        | 0.3843   | 0.4597        | 0.4060 | 
 | Accuracy   | 0.4729        | 0.3510   | 0.3125        | 0.3979   | 0.4677        | 0.4104 |
 
- 					
+
+
+1. [EDA.ipynb](https://github.com/LaCrazyTomato/Group-Project-DM-ML-2021/blob/main/code/EDA.ipynb)
+2. [first_approach.ipynb](https://github.com/LaCrazyTomato/Group-Project-DM-ML-2021/blob/main/code/first_approach.ipynb)
+3. [hyperparameters_tuning.ipynb](https://github.com/LaCrazyTomato/Group-Project-DM-ML-2021/blob/main/code/hyperparameters_tuning.ipynb)
+4. [model_improvments.ipynb](https://github.com/LaCrazyTomato/Group-Project-DM-ML-2021/blob/main/code/model_improvement.ipynb)
+5. [...]()					
 					
