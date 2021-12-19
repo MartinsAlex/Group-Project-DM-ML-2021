@@ -22,6 +22,12 @@ To determine this we went through different steps:
 | Accuracy   | 0.4729        | 0.3510   | 0.3125        | 0.3979   | 0.4677        | 0.4104 |
 
 
+## Final accuracies (after hyperparameters tuning):
+
+|        | Logistic regression | Random Forests | Ridge | Perceptron |
+| ----------- | ----------- |  -----------   | ----------- | ----------- |
+| Accuracy   | 0.5031        |     | 0.4198   | 0.4677        | 0.4104 |
+
 You can know more about our pathway, with reading these notebooks, in this order:
 
 1. [EDA.ipynb](http://github.com/LaCrazyTomato/Group-Project-DM-ML-2021/blob/main/code/EDA.ipynb)
