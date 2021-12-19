@@ -1,5 +1,5 @@
 # [Detecting the difficulty level of French texts](https://www.kaggle.com/c/detecting-the-difficulty-level-of-french-texts/overview/evaluation)
-Project Group for the Data Mining & Machine Learning course, at HEC UNIL (Group Nvidia)
+## Project Group for the Data Mining & Machine Learning course, at HEC UNIL (Group Nvidia)
 
 For this project, the goal was to detect the level of difficulty of French texts and to predict its level of difficulty (A1, A2, B1, B2, C1, C2).
 
