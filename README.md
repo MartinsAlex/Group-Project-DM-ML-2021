@@ -36,3 +36,9 @@ You can know more about our pathway, with reading these notebooks, in this order
 4. [model_improvments.ipynb](http://github.com/LaCrazyTomato/Group-Project-DM-ML-2021/blob/main/code/model_improvement.ipynb)
 5. [bert_implementation.ipynb](http://github.com/LaCrazyTomato/Group-Project-DM-ML-2021/blob/main/code/bert_implementation.ipynb)					
 					
+					
+### Final leaderboard
+
+![final_leaderboard](data/leaderboard.png)
+
+
