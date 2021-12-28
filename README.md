@@ -39,6 +39,6 @@ You can know more about our pathway, with reading these notebooks, in this order
 					
 ### Final leaderboard
 
-![final_leaderboard](data/leaderboard.png)
+![final_leaderboard](data/leaderboard.PNG)
 
 
