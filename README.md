@@ -33,7 +33,7 @@ You can know more about our pathway, with reading these notebooks, in this order
 1. [EDA.ipynb](http://github.com/LaCrazyTomato/Group-Project-DM-ML-2021/blob/main/code/EDA.ipynb)
 2. [first_approach.ipynb](http://github.com/LaCrazyTomato/Group-Project-DM-ML-2021/blob/main/code/first_approach.ipynb)
 3. [hyperparameters_tuning.ipynb](http://github.com/LaCrazyTomato/Group-Project-DM-ML-2021/blob/main/code/hyperparameters_tuning.ipynb)
-4. [model_improvments.ipynb](http://github.com/LaCrazyTomato/Group-Project-DM-ML-2021/blob/main/code/model_improvement.ipynb)
+4. [model_improvments.ipynb](http://github.com/LaCrazyTomato/Group-Project-DM-ML-2021/blob/main/code/model_improvements.ipynb)
 5. [bert_implementation.ipynb](http://github.com/LaCrazyTomato/Group-Project-DM-ML-2021/blob/main/code/bert_implementation.ipynb)					
 					
 					
